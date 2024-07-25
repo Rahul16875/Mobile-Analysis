@@ -1,0 +1,19 @@
+-- Check mobile features and price list
+
+-- Find out the price of 5 most expensive phones
+
+-- Find out the price of 5 cheapest phones
+
+-- List of top 5 Samsung phones with price and all features
+
+-- List of top 5 high price Android phones
+
+-- List of top 5 lower price Android phones
+
+-- List of top 5 high price iOS phones
+
+-- List of top 5 lower price iOS phones
+
+-- Query to find phones that support 5G and also list the top 5 phones with 5G support
+
+-- Total price of all mobiles grouped by brand name
