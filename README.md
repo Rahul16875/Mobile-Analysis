@@ -1,2 +1,3 @@
 Analysis Using PowerBi
-![Screenshot 2024-07-26 014736](https://github.com/user-attachments/assets/666ee885-44d2-4269-b308-018346cde6b1)
+![image](https://github.com/user-attachments/assets/8719c0d1-ae8d-4736-93f7-451ab3673108)
+
